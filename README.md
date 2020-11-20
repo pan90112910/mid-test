@@ -56,7 +56,7 @@
 又稱通訊協定，雙方對資料傳送控制的一種約定。必須共同遵守
 # 2.Why layering?
 減少電腦通訊模式的多樣性，以利於溝通。
-3. 列出 OSI Model 與 TCP/IP protocol對應圖
+ # 3. 列出 OSI Model 與 TCP/IP protocol對應圖
    註 1: 需用中英文寫出各層的名稱
     註 2:須說明 OSI Model每一層的簡略功能
-![協定protocol](IMG_2137.)
+![協定protocol](IMG_2137)
