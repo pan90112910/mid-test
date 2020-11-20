@@ -63,13 +63,13 @@
 # 4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
    # (1)HTTP vs HTTPS 
    HTTP沒加密 HTTPS有加密，但利用SSL/TLS來加密封包 位於應用層
-   (2) TELNET vs SSH 
+#   (2) TELNET vs SSH 
    Telnet沒加密，帳密有可能外洩 SSH有加密，能在不安全的網路建一個安全通道。位於應用層
-   (3)DNS 
+ #  (3)DNS 
    網際網路一種服務，使用TDP,UDP
-   (4)IP 
+#   (4)IP 
    網路協定，用於封包交換，有IPV4 IPV6位於網路層。
-   (5)ICMP
+#   (5)ICMP
    能偵測回報機制，能檢測網路狀況。
    位於網路層
    
