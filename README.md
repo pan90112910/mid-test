@@ -80,6 +80,6 @@ Reliable先確認再傳輸，un-reliable不確認就傳輸 TCP跟UDP皆是可靠
 ## [3]如何達到reliable(可靠)
 先確認再傳輸
 ## [4]Three-way handshaking機制
-
+![協定protocol](IMG_2138.PNG)
    
 
