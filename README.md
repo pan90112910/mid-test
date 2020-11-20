@@ -59,4 +59,4 @@
  # 3. 列出 OSI Model 與 TCP/IP protocol對應圖
    註 1: 需用中英文寫出各層的名稱
     註 2:須說明 OSI Model每一層的簡略功能
-![協定protocol](IMG_2137.png)
+![協定protocol](IMG_2137.PNG)
