@@ -51,3 +51,11 @@
 1.search engine optimization搜尋引擎最佳化
 2.提高搜尋引擎內排名
 3.低成本高回報，增加銷售轉換率
+### 2.問答與申論題 :OSI Model 與 TCP/IP protocol
+# 1. 解釋 communication protocol(簡稱協定 protocol)
+又稱通訊協定，雙方對資料傳送控制的一種約定。必須共同遵守
+# 2.Why layering?
+減少電腦通訊模式的多樣性，以利於溝通。
+3. 列出 OSI Model 與 TCP/IP protocol對應圖
+   註 1: 需用中英文寫出各層的名稱
+    註 2:須說明 OSI Model每一層的簡略功能
