@@ -72,14 +72,14 @@
 #   (5)ICMP
    能偵測回報機制，能檢測網路狀況。
    位於網路層
-   ###5. TCP vs UDP
-##[1]英文全名
+   ### 5. TCP vs UDP
+## [1]英文全名
 TDP:Transmission Control Protocol UDP:User Datagram Protocol
-##[2]須說明 reliable(可靠) vs un-reliable(不可靠)
+## [2]須說明 reliable(可靠) vs un-reliable(不可靠)
 Reliable先確認再傳輸，un-reliable不確認就傳輸 TCP跟UDP皆是可靠。
-##[3]如何達到reliable(可靠)
+## [3]如何達到reliable(可靠)
 先確認再傳輸
-##[4]Three-way handshaking機制
+## [4]Three-way handshaking機制
 
    
 
